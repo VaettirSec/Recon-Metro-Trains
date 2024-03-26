@@ -1,0 +1,15 @@
+This operation is aimed at assessing the resilience of Metro Trains security infrastructure. This is a legitimate hacking attempt to see if I can get in undetected using credential stuffing targetting accounts listed in the other scripts and brute forcing their Active Directory
+
+Additional entry points and testing
+
+The covert penetration test will encompass the following objectives:
+
+Exploiting vulnerabilities within our network architecture, including but not limited to firewalls, routers, and servers.
+Initiating phishing campaigns to test the susceptibility of employees to social engineering attacks.
+Utilizing advanced intrusion techniques to gain unauthorized access to sensitive data repositories.
+Manipulating physical security measures to gain physical access to restricted areas.
+
+This will occurr over the next 4 weeks and will run indefinitely if I remain undetected
+Results will be posted to this repo for others to join in on the fun....the more train disruptions that occur because of their negligence will result in more disruptions to their network and outages to their IT infrastructure.
+http://www.metrotrains.com.au
+https://www.metrotrains.com.au
